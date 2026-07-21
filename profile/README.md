@@ -8,9 +8,9 @@ Association loi 1901 créée en 2018, l'INR travaille sur trois enjeux du numér
 
 Nous voulons devenir un acteur de référence qui rassemble entreprises et organisations autour de l'expérimentation et de la promotion de bonnes pratiques, pour un numérique plus régénérateur, inclusif et éthique.
 
-🌐 Site principal : [institutnr.org](https://institutnr.org)
-🇧🇪 Belgique (ISIT) : [isit-be.org/fr/numerique-responsable-belgique](https://isit-be.org/fr/numerique-responsable-belgique)
-🇨🇭 Suisse (ISIT) : [isit-ch.org](https://isit-ch.org)
+- France (INR) : [institutnr.org](https://institutnr.org)
+- Belgique (ISIT) : [isit-be.org/](https://isit-be.org/)
+- Suisse (ISIT) : [isit-ch.org](https://isit-ch.org)
 
 ## Nos thèmes d'intervention
 
