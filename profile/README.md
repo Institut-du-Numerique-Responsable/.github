@@ -8,9 +8,9 @@ Association loi 1901 créée en 2018, l'INR travaille sur trois enjeux du numér
 
 Nous voulons devenir un acteur de référence qui rassemble entreprises et organisations autour de l'expérimentation et de la promotion de bonnes pratiques, pour un numérique plus régénérateur, inclusif et éthique.
 
-- France (INR)  : [institutnr.org](https://institutnr.org)
-- Belgique (ISIT-BE) : [isit-be.org/](https://isit-be.org/)
-- Suisse (ISIT-CH) : [isit-ch.org](https://isit-ch.org)
+🌐 Site principal : [institutnr.org](https://institutnr.org)
+🇧🇪 Belgique (ISIT) : [isit-be.org/fr/numerique-responsable-belgique](https://isit-be.org/fr/numerique-responsable-belgique)
+🇨🇭 Suisse (ISIT) : [isit-ch.org](https://isit-ch.org)
 
 ## Nos thèmes d'intervention
 
@@ -38,6 +38,7 @@ Certains de ces référentiels sont produits ou maintenus par des outils interne
 - **Digital Cleanup Day** — [digital-cleanup-day.fr](https://digital-cleanup-day.fr), en lien avec le repo [DCD-Bilan](https://github.com/Institut-du-Numerique-Responsable/DCD-Bilan) ci-dessous
 - **Académie NR** — MOOCs et formations : [academie-nr.org](https://www.academie-nr.org)
 - **Charte Numérique Responsable et Charte IA Responsable** — [charter.isit-europe.org](https://charter.isit-europe.org/?lang=fr_FR), vous pouvez les signer directement en ligne
+- **Wiki-NR** — [fr.wiki.isit-europe.org/nr/Accueil](https://fr.wiki.isit-europe.org/nr/Accueil)
 
 ## Nos outils open source
 
@@ -55,4 +56,4 @@ Certains de ces référentiels sont produits ou maintenus par des outils interne
 
 ## Nous rejoindre
 
-[Accès au site de l'INR](https://institutnr.org)
+[Télécharger la présentation de l'INR](https://institutnr.org) sur [institutnr.org](https://institutnr.org)
