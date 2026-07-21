@@ -55,4 +55,4 @@ Certains de ces référentiels sont produits ou maintenus par des outils interne
 
 ## Nous rejoindre
 
-[Télécharger la présentation de l'INR](https://institutnr.org) sur [institutnr.org](https://institutnr.org)
+[Accès au site de l'INR](https://institutnr.org)
