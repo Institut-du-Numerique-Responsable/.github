@@ -55,6 +55,7 @@ Certains de ces référentiels sont produits ou maintenus par des outils interne
 | [claude_skill_accessibilite](https://github.com/Institut-du-Numerique-Responsable/claude_skill_accessibilite) | Skill Claude Code pour générer une déclaration d'accessibilité RGAA conforme au modèle officiel gouv.fr |
 | regles-ecoconception-ia | Règles d'écoconception (RGESN, GR491, Opquast, RGAA) prêtes à l'emploi pour 8 assistants IA de code : Continue, Claude Code, Gemini CLI, OpenCode, Mistral Vibe, Codex, Kimi CLI, ChatGPT. Dépôt réservé à nos membres pour le moment, accès sur demande auprès de l'INR. |
 | [isit-europe](https://github.com/Institut-du-Numerique-Responsable/isit-europe) | Page d'accueil de présentation de l'organisation à l'échelle européenne |
+| [charte_benr](https://github.com/Institut-du-Numerique-Responsable/charte_benr) | Charte de la ou du bénévole à l'INR |
 
 ## Nous rejoindre
 
