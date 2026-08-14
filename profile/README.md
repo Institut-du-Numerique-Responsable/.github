@@ -35,7 +35,7 @@ Certains de ces référentiels sont produits ou maintenus par des outils interne
 - **GR491** — référentiel de conception responsable des services numériques : [gr491.isit-europe.org](https://gr491.isit-europe.org)
 - **RIA31** — référentiel pour une IA responsable : [ref-ia.isit-europe.org](https://ref-ia.isit-europe.org)
 - **WeNR 2.0** — [wenr.isit-europe.org](https://wenr.isit-europe.org)
-- **Digital Cleanup Day** — [digital-cleanup-day.fr](https://digital-cleanup-day.fr), en lien avec le repo [DCD-Bilan](https://github.com/Institut-du-Numerique-Responsable/DCD-Bilan) ci-dessous
+- **Digital Cleanup Day** — [digital-cleanup-day.fr](https://digital-cleanup-day.fr), en lien avec le repo [dataviz-digital-cleanup](https://github.com/Institut-du-Numerique-Responsable/dataviz-digital-cleanup) ci-dessous
 - **Académie NR** — MOOCs et formations : [academie-nr.org](https://www.academie-nr.org)
 - **Charte Numérique Responsable et Charte IA Responsable** — [charter.isit-europe.org](https://charter.isit-europe.org/?lang=fr_FR), vous pouvez les signer directement en ligne
 - **Wiki-NR** — [fr.wiki.isit-europe.org/nr/Accueil](https://fr.wiki.isit-europe.org/nr/Accueil)
@@ -48,12 +48,12 @@ Certains de ces référentiels sont produits ou maintenus par des outils interne
 | [GPC-ONR](https://github.com/Institut-du-Numerique-Responsable/GPC-ONR) | Outil d'évaluation et de priorisation participative pour accompagner les organisations dans leur démarche de numérique responsable |
 | [nr-analysis-cli](https://github.com/Institut-du-Numerique-Responsable/nr-analysis-cli) | Évaluation du niveau de conformité RGESN de pages web |
 | [myimpact](https://github.com/Institut-du-Numerique-Responsable/myimpact) | Calculatrice pour évaluer ses impacts numériques |
-| [DCD-Bilan](https://github.com/Institut-du-Numerique-Responsable/DCD-Bilan) | Interface de collecte des données des Digital Cleanup Day |
+| [dataviz-digital-cleanup](https://github.com/Institut-du-Numerique-Responsable/dataviz-digital-cleanup) | Interface de collecte des données des Digital Cleanup Day |
 | [CO2_RAPL](https://github.com/Institut-du-Numerique-Responsable/CO2_RAPL) | Script RAPL pour estimer l'empreinte carbone d'un serveur Linux |
 | [bw_camera](https://github.com/Institut-du-Numerique-Responsable/bw_camera) | Caméra virtuelle noir & blanc pour Linux : réduit la bande passante et l'énergie de la visioconférence |
 | [green-claude](https://github.com/Institut-du-Numerique-Responsable/green-claude) | Skill éco-responsable pour Claude Code : sobriété numérique et éco-conception du code |
 | [claude_skill_accessibilite](https://github.com/Institut-du-Numerique-Responsable/claude_skill_accessibilite) | Skill Claude Code pour générer une déclaration d'accessibilité RGAA conforme au modèle officiel gouv.fr |
-| regles-ecoconception-ia | Règles d'écoconception (RGESN, GR491, Opquast, RGAA) prêtes à l'emploi pour 8 assistants IA de code : Continue, Claude Code, Gemini CLI, OpenCode, Mistral Vibe, Codex, Kimi CLI, ChatGPT. Dépôt réservé à nos membres pour le moment, accès sur demande auprès de l'INR. |
+| [skill-nr](https://github.com/Institut-du-Numerique-Responsable/skill-nr) | Règles d'écoconception (RGESN, GR491, Opquast, RGAA) prêtes à l'emploi pour 11 assistants IA de code : Continue, Claude Code, Cursor, GitHub Copilot, Gemini CLI, OpenCode, Mistral Vibe, Kilo Code, Codex, Kimi CLI, ChatGPT. Une source, onze déclinaisons, 13 langages — [site du projet](https://institut-du-numerique-responsable.github.io/skill-nr/) |
 | [isit-europe](https://github.com/Institut-du-Numerique-Responsable/isit-europe) | Page d'accueil de présentation de l'organisation à l'échelle européenne |
 | [charte_benr](https://github.com/Institut-du-Numerique-Responsable/charte_benr) | Charte de la ou du bénévole à l'INR |
 
