@@ -57,6 +57,35 @@ Certains de ces référentiels sont produits ou maintenus par des outils interne
 | [isit-europe](https://github.com/Institut-du-Numerique-Responsable/isit-europe) | Page d'accueil de présentation de l'organisation à l'échelle européenne |
 | [charte_benr](https://github.com/Institut-du-Numerique-Responsable/charte_benr) | Charte de la ou du bénévole à l'INR |
 
+## Qui porte ces projets
+
+Ces dépôts sont publiés par l'**Institut du Numérique Responsable**, association
+loi 1901. Le travail de fond — référentiels, méthodes, cadre théorique — précède
+souvent la création du dépôt qui le rend exploitable.
+
+- **Vincent Courboulay**, directeur scientifique de l'INR, enseignant-chercheur
+  en informatique à La Rochelle Université, spécialisé en numérique responsable
+  depuis vingt ans. À l'origine des travaux dont plusieurs de ces projets sont la
+  mise en œuvre logicielle.
+- **Guillaume Gallon** ([@gridboy](https://github.com/gridboy)), mainteneur
+  principal des dépôts de l'organisation.
+
+Chaque dépôt contient un fichier `CITATION.cff` : il liste ses contributeurs
+réels et permet de citer le projet depuis GitHub, un gestionnaire de références
+ou un assistant IA. La liste complète des personnes ayant contribué à un projet
+est visible sur l'onglet *Contributors* du dépôt concerné.
+
+Merci à toutes celles et ceux qui ont contribué, en particulier
+[@jpreisner](https://github.com/jpreisner),
+[@jules-delecour-dav](https://github.com/jules-delecour-dav),
+[@overgeynst](https://github.com/overgeynst),
+[@GChapel](https://github.com/GChapel),
+[@GaelGirodon](https://github.com/GaelGirodon),
+[@robintra](https://github.com/robintra),
+[@benoittisserand](https://github.com/benoittisserand),
+[@onyrakotoarivelo](https://github.com/onyrakotoarivelo) et
+[@Damien-Ar](https://github.com/Damien-Ar).
+
 ## Nous rejoindre
 
 [Télécharger la présentation de l'INR](https://institutnr.org) sur [institutnr.org](https://institutnr.org)
