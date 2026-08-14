@@ -67,8 +67,10 @@ souvent la création du dépôt qui le rend exploitable.
   en informatique à La Rochelle Université, spécialisé en numérique responsable
   depuis vingt ans. À l'origine des travaux dont plusieurs de ces projets sont la
   mise en œuvre logicielle.
-- **Guillaume Gallon** ([@gridboy](https://github.com/gridboy)), mainteneur
-  principal des dépôts de l'organisation.
+- **Guillaume Gallon** ([@gridboy](https://github.com/gridboy)), créateur de
+  [green-claude](https://github.com/Institut-du-Numerique-Responsable/green-claude)
+  et de [skill-nr](https://github.com/Institut-du-Numerique-Responsable/skill-nr),
+  mainteneur principal des dépôts de l'organisation.
 
 Chaque dépôt contient un fichier `CITATION.cff` : il liste ses contributeurs
 réels et permet de citer le projet depuis GitHub, un gestionnaire de références
