@@ -30,63 +30,63 @@ Nous voulons devenir un acteur de référence qui rassemble entreprises et organ
 ### 🔍 Audit & Conformité
 *Outils pour évaluer la conformité aux référentiels (RGESN, RGAA, etc.).*
 
-| Projet | Description | Langage | License | ✨ Stars | 🍴 Forks |
-|--------|-------------|---------|---------|---------|----------|
-| [claude_skill_accessibilite](https://github.com/Institut-du-Numerique-Responsable/claude_skill_accessibilite) | Skill Claude Code pour générer des **déclarations d’accessibilité RGAA** conforme au modèle officiel gouv.fr | Python | MIT | 1 | 0 |
-| [nr-analysis-cli](https://github.com/Institut-du-Numerique-Responsable/nr-analysis-cli) | **CLI d’audit RGESN** : évalue le niveau de conformité écoconception et accessibilité de pages web | JavaScript | AGPL-3.0 | 1 | 0 |
-| [GPC-ONR](https://github.com/Institut-du-Numerique-Responsable/GPC-ONR) | Outil d’**évaluation et de priorisation participative** pour accompagner les organisations dans leur démarche de numérique responsable | - | MIT | 2 | 0 |
+| Projet | Description |
+|--------|-------------|
+| [claude_skill_accessibilite](https://github.com/Institut-du-Numerique-Responsable/claude_skill_accessibilite) | Skill Claude Code pour générer des **déclarations d’accessibilité RGAA** conforme au modèle officiel gouv.fr |
+| [nr-analysis-cli](https://github.com/Institut-du-Numerique-Responsable/nr-analysis-cli) | **CLI d’audit RGESN** : évalue le niveau de conformité écoconception et accessibilité de pages web |
+| [GPC-ONR](https://github.com/Institut-du-Numerique-Responsable/GPC-ONR) | Outil d’**évaluation et de priorisation participative** pour accompagner les organisations dans leur démarche de numérique responsable |
 
 ---
 
 ### ⚖️ Mesure d’Impact Environnemental
 *Calcul et estimation des impacts (carbone, énergie, etc.).*
 
-| Projet | Description | Langage | License | ✨ Stars | 🍴 Forks |
-|--------|-------------|---------|---------|---------|----------|
-| [myimpact](https://github.com/Institut-du-Numerique-Responsable/myimpact) | **Calculatrice** pour évaluer ses impacts numériques | JavaScript | CC0-1.0 | 1 | 0 |
-| [CO2_RAPL](https://github.com/Institut-du-Numerique-Responsable/CO2_RAPL) | **Script RAPL** pour estimer l’empreinte carbone et la consommation d’un serveur Linux | Shell | CC0-1.0 | 1 | 0 |
+| Projet | Description |
+|--------|-------------|
+| [myimpact](https://github.com/Institut-du-Numerique-Responsable/myimpact) | **Calculatrice** pour évaluer ses impacts numériques |
+| [CO2_RAPL](https://github.com/Institut-du-Numerique-Responsable/CO2_RAPL) | **Script RAPL** pour estimer l’empreinte carbone et la consommation d’un serveur Linux |
 
 ---
 
 ### 💻 Développement & Éco-conception
 *Outils pour les développeurs : bonnes pratiques, skills IA, architectures responsables.*
 
-| Projet | Description | Langage | License | ✨ Stars | 🍴 Forks |
-|--------|-------------|---------|---------|---------|----------|
-| [green-claude](https://github.com/Institut-du-Numerique-Responsable/green-claude) | **Skill éco-responsable pour Claude Code** : sobriété numérique, audit d’écoconception (RGESN, GR491, Green Software Foundation) et pratiques de sobriété IA | Shell | MIT | **44** | 2 |
-| [skill-nr](https://github.com/Institut-du-Numerique-Responsable/skill-nr) | **Règles d’écoconception** (RGESN, GR491, Opquast, RGAA) prêtes à l’emploi pour 11 assistants IA de code : Continue, Claude Code, Cursor, GitHub Copilot, Gemini CLI, OpenCode, Mistral Vibe, Kilo Code, Codex, Kimi CLI, ChatGPT. Une source, onze déclinaisons, 13 langages — [site du projet](https://institut-du-numerique-responsable.github.io/skill-nr/) | Shell | Other | 3 | 0 |
-| [BP-AIR](https://github.com/Institut-du-Numerique-Responsable/BP-AIR) | Fiches et bonnes pratiques pour des **Architectures Informatiques Responsables** | HTML | CC0-1.0 | 2 | **3** |
+| Projet | Description |
+|--------|-------------|
+| [green-claude](https://github.com/Institut-du-Numerique-Responsable/green-claude) | **Skill éco-responsable pour Claude Code** : sobriété numérique, audit d’écoconception (RGESN, GR491, Green Software Foundation) et pratiques de sobriété IA |
+| [skill-nr](https://github.com/Institut-du-Numerique-Responsable/skill-nr) | **Règles d’écoconception** (RGESN, GR491, Opquast, RGAA) prêtes à l’emploi pour 11 assistants IA de code : Continue, Claude Code, Cursor, GitHub Copilot, Gemini CLI, OpenCode, Mistral Vibe, Kilo Code, Codex, Kimi CLI, ChatGPT. Une source, onze déclinaisons, 13 langages — [site du projet](https://institut-du-numerique-responsable.github.io/skill-nr/) |
+| [BP-AIR](https://github.com/Institut-du-Numerique-Responsable/BP-AIR) | Fiches et bonnes pratiques pour des **Architectures Informatiques Responsables** |
 
 ---
 
 ### 🌐 Sites Web & Interfaces
 *Dépôts liés aux sites et outils de visualisation.*
 
-| Projet | Description | Langage | License | ✨ Stars | 🍴 Forks |
-|--------|-------------|---------|---------|---------|----------|
-| [dataviz-digital-cleanup](https://github.com/Institut-du-Numerique-Responsable/dataviz-digital-cleanup) | **Interface de collecte des données** des Digital Cleanup Day | HTML | CC0-1.0 | 1 | 0 |
-| [boite_a_outils](https://github.com/Institut-du-Numerique-Responsable/boite_a_outils) | **Site de la boîte à outils** de l’INR | HTML | MIT | 0 | 0 |
-| [isit-europe](https://github.com/Institut-du-Numerique-Responsable/isit-europe) | Page d’accueil de présentation de l’organisation à l’échelle européenne | HTML | - | 0 | 0 |
+| Projet | Description |
+|--------|-------------|
+| [dataviz-digital-cleanup](https://github.com/Institut-du-Numerique-Responsable/dataviz-digital-cleanup) | **Interface de collecte des données** des Digital Cleanup Day |
+| [boite_a_outils](https://github.com/Institut-du-Numerique-Responsable/boite_a_outils) | **Site de la boîte à outils** de l’INR |
+| [isit-europe](https://github.com/Institut-du-Numerique-Responsable/isit-europe) | Page d’accueil de présentation de l’organisation à l’échelle européenne |
 
 ---
 
 ### ⚙️ Outils Système
 *Solutions techniques pour optimiser les infrastructures.*
 
-| Projet | Description | Langage | License | ✨ Stars | 🍴 Forks |
-|--------|-------------|---------|---------|---------|----------|
-| [bw_camera](https://github.com/Institut-du-Numerique-Responsable/bw_camera) | Caméra virtuelle noir & blanc pour Linux (V4L2) : réduit la bande passante et l’énergie de la visioconférence | Shell | - | 0 | 0 |
+| Projet | Description |
+|--------|-------------|
+| [bw_camera](https://github.com/Institut-du-Numerique-Responsable/bw_camera) | Caméra virtuelle noir & blanc pour Linux (V4L2) : réduit la bande passante et l’énergie de la visioconférence |
 
 ---
 
 ### 📜 Gouvernance & Organisation
 *Documents et outils internes pour la gouvernance de l’INR.*
 
-| Projet | Description | Langage | License | ✨ Stars | 🍴 Forks |
-|--------|-------------|---------|---------|---------|----------|
-| [.github](https://github.com/Institut-du-Numerique-Responsable/.github) | Profil GitHub de l’organisation | - | - | 1 | 0 |
-| [charte_benr](https://github.com/Institut-du-Numerique-Responsable/charte_benr) | **Charte de la ou du bénévole** à l’INR : engagements, rôles et cadre du bénévolat | HTML | CC0-1.0 | 0 | 0 |
-| [clausier_nr_v2](https://github.com/Institut-du-Numerique-Responsable/clausier_nr_v2) | Sources du **clausier numérique responsable v2** | - | - | 0 | 0 |
+| Projet | Description |
+|--------|-------------|
+| [.github](https://github.com/Institut-du-Numerique-Responsable/.github) | Profil GitHub de l’organisation |
+| [charte_benr](https://github.com/Institut-du-Numerique-Responsable/charte_benr) | **Charte de la ou du bénévole** à l’INR : engagements, rôles et cadre du bénévolat |
+| [clausier_nr_v2](https://github.com/Institut-du-Numerique-Responsable/clausier_nr_v2) | Sources du **clausier numérique responsable v2** |
 
 ---
 
