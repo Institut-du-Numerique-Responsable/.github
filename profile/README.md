@@ -3,7 +3,7 @@
 **Association loi 1901** (2018) | **Mission** : Réduire l’empreinte économique, sociale et environnementale du numérique, promouvoir l’écoconception, la sobriété numérique et l’IA responsable.
 **Site** : [institutnr.org](https://institutnr.org) | **Contact** : [contact@institutnr.org](mailto:contact@institutnr.org)
 
-> **15 dépôts publics** (tous open source) – Dernière vérification : **28/08/2026**
+> **16 dépôts publics** (tous open source) – Dernière vérification : **01/09/2026**
 
 ---
 
@@ -55,6 +55,7 @@ Nous voulons devenir un acteur de référence qui rassemble entreprises et organ
 |--------|-------------|
 | [green-claude](https://github.com/Institut-du-Numerique-Responsable/green-claude) | **Skill éco-responsable pour Claude Code** : sobriété numérique, audit d’écoconception (RGESN, GR491, Green Software Foundation) et pratiques de sobriété IA |
 | [skill-nr](https://github.com/Institut-du-Numerique-Responsable/skill-nr) | **Règles d’écoconception** (RGESN, GR491, Opquast, RGAA) prêtes à l’emploi pour 11 assistants IA de code : Continue, Claude Code, Cursor, GitHub Copilot, Gemini CLI, OpenCode, Mistral Vibe, Kilo Code, Codex, Kimi CLI, ChatGPT. Une source, onze déclinaisons, 13 langages — [site du projet](https://institut-du-numerique-responsable.github.io/skill-nr/) |
+| [green-codex](https://github.com/Institut-du-Numerique-Responsable/green-codex) | **Skill Codex en anglais** pour l’écoconception, l’accessibilité, la qualité web et l’IA responsable, fondé sur RGESN, GR491, Opquast et RGAA — [site du projet](https://institut-du-numerique-responsable.github.io/green-codex/) |
 | [BP-AIR](https://github.com/Institut-du-Numerique-Responsable/BP-AIR) | Fiches et bonnes pratiques pour des **Architectures Informatiques Responsables** |
 
 ---
@@ -96,11 +97,11 @@ Nous voulons devenir un acteur de référence qui rassemble entreprises et organ
 |-----------|--------|-------|
 | Audit & Conformité | claude_skill_accessibilite, nr-analysis-cli, GPC-ONR | 3 |
 | Mesure d’Impact | myimpact, CO2_RAPL | 2 |
-| Développement & Éco-conception | green-claude, skill-nr, BP-AIR | 3 |
+| Développement & Éco-conception | green-claude, skill-nr, green-codex, BP-AIR | 4 |
 | Sites Web & Interfaces | dataviz-digital-cleanup, boite_a_outils, isit-europe | 3 |
 | Outils Système | bw_camera | 1 |
 | Gouvernance | .github, charte_benr, clausier_nr_v2 | 3 |
-| **Total** | | **15** |
+| **Total** | | **16** |
 
 ---
 
