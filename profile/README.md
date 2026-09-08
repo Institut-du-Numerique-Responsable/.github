@@ -3,7 +3,7 @@
 **Association loi 1901** (2018) | **Mission** : Réduire l’empreinte économique, sociale et environnementale du numérique, promouvoir l’écoconception, la sobriété numérique et l’IA responsable.
 **Site** : [institutnr.org](https://institutnr.org) | **Contact** : [contact@institutnr.org](mailto:contact@institutnr.org)
 
-> **16 dépôts publics** (tous open source) – Dernière vérification : **01/09/2026**
+> **16 dépôts publics** (tous open source) – DernièreX vérification : **01/09/2026**
 
 ---
 
