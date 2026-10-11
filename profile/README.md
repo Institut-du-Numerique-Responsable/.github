@@ -3,7 +3,7 @@
 **Association loi 1901** (2018) | **Mission** : Réduire l’empreinte économique, sociale et environnementale du numérique, promouvoir l’écoconception, la sobriété numérique et l’IA responsable.
 **Site** : [institutnr.org](https://institutnr.org) | **Contact** : [contact@institutnr.org](mailto:contact@institutnr.org)
 
-> **16 dépôts publics** (tous open source) – Dernière vérification : **01/09/2026**
+> **19 dépôts publics** (tous open source) – Dernière vérification : **01/09/2026**
 
 ---
 
@@ -45,6 +45,9 @@ Nous voulons devenir un acteur de référence qui rassemble entreprises et organ
 |--------|-------------|
 | [myimpact](https://github.com/Institut-du-Numerique-Responsable/myimpact) | **Calculatrice** pour évaluer ses impacts numériques |
 | [CO2_RAPL](https://github.com/Institut-du-Numerique-Responsable/CO2_RAPL) | **Script RAPL** pour estimer l’empreinte carbone et la consommation d’un serveur Linux |
+| [perf-sentinel](https://github.com/Institut-du-Numerique-Responsable/perf-sentinel) | **Détecteur d’anti-patterns de performance** dans les traces OpenTelemetry (N+1, appels redondants, fanout…) : chiffre chaque I/O évitable en énergie et en CO₂, en quality gate CI ou en daemon. [Site du projet](https://perf-sentinel.dev) |
+| [PerfSentinelHub](https://github.com/Institut-du-Numerique-Responsable/PerfSentinelHub) | **Hub d’historique et d’agrégation** des findings Perf Sentinel (C# / .NET NativeAOT, SQLite), avec une interface pour lancer une analyse sans terminal |
+| [perf-sentinel-simulation-lab](https://github.com/Institut-du-Numerique-Responsable/perf-sentinel-simulation-lab) | **Laboratoire Kubernetes local** qui valide Perf Sentinel sur une infrastructure simulée mais réaliste avant chaque release |
 
 ---
 
@@ -96,12 +99,12 @@ Nous voulons devenir un acteur de référence qui rassemble entreprises et organ
 | Catégorie | Dépôts | Total |
 |-----------|--------|-------|
 | Audit & Conformité | claude_skill_accessibilite, nr-analysis-cli, GPC-ONR | 3 |
-| Mesure d’Impact | myimpact, CO2_RAPL | 2 |
+| Mesure d’Impact | myimpact, CO2_RAPL, perf-sentinel, PerfSentinelHub, perf-sentinel-simulation-lab | 5 |
 | Développement & Éco-conception | green-claude, skill-nr, green-codex, BP-AIR | 4 |
 | Sites Web & Interfaces | dataviz-digital-cleanup, boite_a_outils, isit-europe | 3 |
 | Outils Système | bw_camera | 1 |
 | Gouvernance | .github, charte_benr, clausier_nr_v2 | 3 |
-| **Total** | | **16** |
+| **Total** | | **19** |
 
 ---
 
@@ -125,10 +128,11 @@ Ces dépôts sont publiés par l’**Institut du Numérique Responsable**, assoc
 
 - **Vincent Courboulay**, directeur scientifique de l’INR, enseignant-chercheur en informatique à La Rochelle Université, spécialisé en numérique responsable depuis vingt ans. À l’origine des travaux dont plusieurs de ces projets sont la mise en œuvre logicielle.
 - **Guillaume Gallon** ([@gridboy](https://github.com/gridboy)), créateur de [green-claude](https://github.com/Institut-du-Numerique-Responsable/green-claude) et de [skill-nr](https://github.com/Institut-du-Numerique-Responsable/skill-nr), mainteneur principal des dépôts de l’organisation.
+- **Robin Trassard** ([@robintra](https://github.com/robintra)), Tech Lead Green IT et IT for Green de l’INR, créateur de [Perf Sentinel](https://github.com/Institut-du-Numerique-Responsable/perf-sentinel), qu’il continue de diriger au sein de l’institut.
 
 Chaque dépôt contient un fichier `CITATION.cff` : il liste ses contributeurs réels et permet de citer le projet depuis GitHub, un gestionnaire de références ou un assistant IA. La liste complète des personnes ayant contribué à un projet est visible sur l’onglet *Contributors* du dépôt concerné.
 
-Merci à toutes celles et ceux qui ont contribué, en particulier [@jpreisner](https://github.com/jpreisner), [@jules-delecour-dav](https://github.com/jules-delecour-dav), [@overgeynst](https://github.com/overgeynst), [@GChapel](https://github.com/GChapel), [@GaelGirodon](https://github.com/GaelGirodon), [@robintra](https://github.com/robintra), [@benoittisserand](https://github.com/benoittisserand), [@onyrakotoarivelo](https://github.com/onyrakotoarivelo) et [@Damien-Ar](https://github.com/Damien-Ar).
+Merci à toutes celles et ceux qui ont contribué, en particulier [@jpreisner](https://github.com/jpreisner), [@jules-delecour-dav](https://github.com/jules-delecour-dav), [@overgeynst](https://github.com/overgeynst), [@GChapel](https://github.com/GChapel), [@GaelGirodon](https://github.com/GaelGirodon), [@benoittisserand](https://github.com/benoittisserand), [@onyrakotoarivelo](https://github.com/onyrakotoarivelo) et [@Damien-Ar](https://github.com/Damien-Ar).
 
 ---
 
