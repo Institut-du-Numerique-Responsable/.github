@@ -56,9 +56,10 @@ Nous voulons devenir un acteur de référence qui rassemble entreprises et organ
 
 | Projet | Description |
 |--------|-------------|
-| [green-claude](https://github.com/Institut-du-Numerique-Responsable/green-claude) | **Skill éco-responsable pour Claude Code** : sobriété numérique, audit d’écoconception (RGESN, GR491, Green Software Foundation) et pratiques de sobriété IA |
-| [skill-nr](https://github.com/Institut-du-Numerique-Responsable/skill-nr) | **Règles d’écoconception** (RGESN, GR491, Opquast, RGAA) prêtes à l’emploi pour 11 assistants IA de code : Continue, Claude Code, Cursor, GitHub Copilot, Gemini CLI, OpenCode, Mistral Vibe, Kilo Code, Codex, Kimi CLI, ChatGPT. Une source, onze déclinaisons, 13 langages — [site du projet](https://institut-du-numerique-responsable.github.io/skill-nr/) |
-| [green-codex](https://github.com/Institut-du-Numerique-Responsable/green-codex) | **Skill Codex en anglais** pour l’écoconception, l’accessibilité, la qualité web et l’IA responsable, fondé sur RGESN, GR491, Opquast et RGAA — [site du projet](https://institut-du-numerique-responsable.github.io/green-codex/) |
+| [skill-nr](https://github.com/Institut-du-Numerique-Responsable/skill-nr) Renommé| **Règles d’écoconception** (RGESN, GR491, Opquast, RGAA) prêtes à l’emploi pour 11 assistants IA de code : Continue, Claude Code, Cursor, GitHub Copilot, Gemini CLI, OpenCode, Mistral Vibe, Kilo Code, Codex, Kimi CLI, ChatGPT. Une source, onze déclinaisons, 13 langages — [site du projet](https://institut-du-numerique-responsable.github.io/skill-nr/) |
+| [green-claude](https://github.com/Institut-du-Numerique-Responsable/green-claude) | **Skill éco-responsable pour Claude Code** : sobriété numérique, audit d’écoconception (RGESN, GR491, Green Software Foundation) et pratiques de sobriété IA |lors de lutilisation de claude
+| [green-codex](https://github.com/Institut-du-Numerique-Responsable/green-codex) | **Skill éco-responsable pour Codex** pour l’écoconception, l’accessibilité, la qualité web et l’IA responsable, fondé sur RGESN, GR491, Les réferentiels de l'INR  et RGAA — [site du projet](https://institut-du-numerique-responsable.github.io/green-codex/) |
+| [green-vibe] | **Skill éco-responsable pour Vibe (Mistral) ** pour l’écoconception, l’accessibilité, la qualité web et l’IA responsable, fondé sur RGESN, GR491, Les réferentiels de l'INR et RGAA — Ce skill intègre les spécificité de Codex et les bonnes pratiques d'usage pour en réduire l'utilisation également [site du projet](https://institut-du-numerique-responsable.github.io/green-codex/) |
 | [BP-AIR](https://github.com/Institut-du-Numerique-Responsable/BP-AIR) | Fiches et bonnes pratiques pour des **Architectures Informatiques Responsables** |
 
 ---
