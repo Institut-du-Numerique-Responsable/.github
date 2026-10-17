@@ -1,142 +1,189 @@
-# Institut du Numérique Responsable (INR)
+<h1 align="center">🌱 Institut du Numérique Responsable (INR)</h1>
 
-**Association loi 1901** (2018) | **Mission** : Réduire l’empreinte économique, sociale et environnementale du numérique, promouvoir l’écoconception, la sobriété numérique et l’IA responsable.
-**Site** : [institutnr.org](https://institutnr.org) | **Contact** : [contact@institutnr.org](mailto:contact@institutnr.org)
+<p align="center">
+  <strong>Outils open source pour l’écoconception, la sobriété numérique, l’accessibilité et l’IA responsable</strong><br>
+  RGESN · GR491 · RGAA · Green IT · IT for Green · mesure carbone · assistants IA de code
+</p>
 
-> **19 dépôts publics** (tous open source) – Dernière vérification : **01/09/2026**
+<p align="center">
+  <a href="#-trouver-un-projet">Trouver un projet</a> ·
+  <a href="#-ia-de-code-responsable">IA de code</a> ·
+  <a href="#-mesurer-limpact">Mesurer</a> ·
+  <a href="#-auditer-et-piloter">Auditer</a> ·
+  <a href="#️-concevoir-et-acheter">Concevoir</a> ·
+  <a href="#-savoirs-et-données">Savoirs</a> ·
+  <a href="#-nos-référentiels-en-ligne">Référentiels</a> ·
+  <a href="#-in-english">English</a>
+</p>
 
 ---
 
-## 📌 Présentation
+L’**Institut du Numérique Responsable** est une association loi 1901 créée en 2018. Elle publie ici **24 dépôts open source** qui rendent le numérique responsable concret pour les équipes : règles d’écoconception pour les assistants IA de code, audit RGESN de pages web, mesure de l’énergie et du carbone des logiciels, grilles de maturité, clausier pour les achats publics.
 
-L’**Institut du Numérique Responsable (INR)** est une association loi 1901 créée en 2018 qui agit sur **trois enjeux clés** :
+Nos trois enjeux :
 
 1. **Réduire l’empreinte** économique, sociale et environnementale du numérique ;
 2. **Utiliser le numérique** pour réduire l’empreinte économique, sociale et environnementale de l’humanité ;
 3. **Créer de la valeur durable** et de l’innovation responsable par le numérique, pour réussir l’e-inclusion de toutes et tous.
 
-Nous voulons devenir un acteur de référence qui rassemble entreprises et organisations autour de l’expérimentation et de la promotion de bonnes pratiques, pour un numérique plus régénérateur, inclusif et éthique.
-
-- France (INR) : [institutnr.org](https://institutnr.org)
-- Belgique (ISIT) : [isit-be.org/](https://isit-be.org/)
-- Suisse (ISIT) : [isit-ch.org](https://isit-ch.org)
+🇫🇷 [institutnr.org](https://institutnr.org) · 🇧🇪 [isit-be.org](https://isit-be.org/) · 🇨🇭 [isit-ch.org](https://isit-ch.org) · 🇪🇺 [isit-europe.org](https://isit-europe.org) · ✉️ [contact@institutnr.org](mailto:contact@institutnr.org)
 
 ---
 
-## 🗂️ Dépôts GitHub Publics Classés par Catégorie
+## 🧭 Trouver un projet
+
+### Selon votre besoin
+
+| Vous voulez… | Commencez par |
+|---|---|
+| Que votre assistant IA écrive du code sobre et accessible | [green-claude](https://github.com/Institut-du-Numerique-Responsable/green-claude) (Claude Code) · [green-codex](https://github.com/Institut-du-Numerique-Responsable/green-codex) (Codex) · [green-vibe](https://github.com/Institut-du-Numerique-Responsable/green-vibe) (Mistral Vibe) · [skill-nr](https://github.com/Institut-du-Numerique-Responsable/skill-nr) (11 assistants) |
+| Auditer un site web (RGESN, accessibilité) | [nr-analysis-cli](https://github.com/Institut-du-Numerique-Responsable/nr-analysis-cli) |
+| Rédiger une déclaration d’accessibilité RGAA | [claude_skill_accessibilite](https://github.com/Institut-du-Numerique-Responsable/claude_skill_accessibilite) |
+| Détecter le gaspillage d’une application en production | [perf-sentinel](https://github.com/Institut-du-Numerique-Responsable/perf-sentinel) |
+| Estimer l’impact d’une IA générative | [eval_impact_ia](https://github.com/Institut-du-Numerique-Responsable/eval_impact_ia) |
+| Mesurer la consommation d’un serveur | [CO2_RAPL](https://github.com/Institut-du-Numerique-Responsable/CO2_RAPL) · [Energy-Languages](https://github.com/Institut-du-Numerique-Responsable/Energy-Languages) |
+| Calculer votre empreinte numérique personnelle | [myimpact](https://github.com/Institut-du-Numerique-Responsable/myimpact) |
+| Évaluer et prioriser la démarche NR d’une organisation | [GPC-ONR](https://github.com/Institut-du-Numerique-Responsable/GPC-ONR) · [guide-maturite-parties-prenantes](https://github.com/Institut-du-Numerique-Responsable/guide-maturite-parties-prenantes) |
+| Rédiger un marché public numérique responsable | [clausier_nr_v2](https://github.com/Institut-du-Numerique-Responsable/clausier_nr_v2) |
+| Concevoir une architecture sobre | [BP-AIR](https://github.com/Institut-du-Numerique-Responsable/BP-AIR) |
+
+### Par thème
+
+Filtrer les dépôts par sujet :
+[`rgesn`](https://github.com/orgs/Institut-du-Numerique-Responsable/repositories?q=topic%3Argesn) ·
+[`gr491`](https://github.com/orgs/Institut-du-Numerique-Responsable/repositories?q=topic%3Agr491) ·
+[`rgaa`](https://github.com/orgs/Institut-du-Numerique-Responsable/repositories?q=topic%3Argaa) ·
+[`ecoconception`](https://github.com/orgs/Institut-du-Numerique-Responsable/repositories?q=topic%3Aecoconception) ·
+[`sobriete-numerique`](https://github.com/orgs/Institut-du-Numerique-Responsable/repositories?q=topic%3Asobriete-numerique) ·
+[`carbon-footprint`](https://github.com/orgs/Institut-du-Numerique-Responsable/repositories?q=topic%3Acarbon-footprint) ·
+[`green-software`](https://github.com/orgs/Institut-du-Numerique-Responsable/repositories?q=topic%3Agreen-software) ·
+[`ai-coding-assistant`](https://github.com/orgs/Institut-du-Numerique-Responsable/repositories?q=topic%3Aai-coding-assistant) ·
+[`responsible-ai`](https://github.com/orgs/Institut-du-Numerique-Responsable/repositories?q=topic%3Aresponsible-ai)
 
 ---
 
-### 🔍 Audit & Conformité
-*Outils pour évaluer la conformité aux référentiels (RGESN, RGAA, etc.).*
+## 🤖 IA de code responsable
 
-| Projet | Description |
-|--------|-------------|
-| [claude_skill_accessibilite](https://github.com/Institut-du-Numerique-Responsable/claude_skill_accessibilite) | Skill Claude Code pour générer des **déclarations d’accessibilité RGAA** conforme au modèle officiel gouv.fr |
-| [nr-analysis-cli](https://github.com/Institut-du-Numerique-Responsable/nr-analysis-cli) | **CLI d’audit RGESN** : évalue le niveau de conformité écoconception et accessibilité de pages web |
-| [GPC-ONR](https://github.com/Institut-du-Numerique-Responsable/GPC-ONR) | Outil d’**évaluation et de priorisation participative** pour accompagner les organisations dans leur démarche de numérique responsable |
+*Des skills et plugins qui font appliquer le numérique responsable par l’assistant IA, pendant l’écriture du code.*
 
----
-
-### ⚖️ Mesure d’Impact Environnemental
-*Calcul et estimation des impacts (carbone, énergie, etc.).*
-
-| Projet | Description |
-|--------|-------------|
-| [myimpact](https://github.com/Institut-du-Numerique-Responsable/myimpact) | **Calculatrice** pour évaluer ses impacts numériques |
-| [CO2_RAPL](https://github.com/Institut-du-Numerique-Responsable/CO2_RAPL) | **Script RAPL** pour estimer l’empreinte carbone et la consommation d’un serveur Linux |
-| [perf-sentinel](https://github.com/Institut-du-Numerique-Responsable/perf-sentinel) | **Détecteur d’anti-patterns de performance** dans les traces OpenTelemetry (N+1, appels redondants, fanout…) : chiffre chaque I/O évitable en énergie et en CO₂, en quality gate CI ou en daemon. [Site du projet](https://perf-sentinel.dev) |
-| [PerfSentinelHub](https://github.com/Institut-du-Numerique-Responsable/PerfSentinelHub) | **Hub d’historique et d’agrégation** des findings Perf Sentinel (C# / .NET NativeAOT, SQLite), avec une interface pour lancer une analyse sans terminal |
-| [perf-sentinel-simulation-lab](https://github.com/Institut-du-Numerique-Responsable/perf-sentinel-simulation-lab) | **Laboratoire Kubernetes local** qui valide Perf Sentinel sur une infrastructure simulée mais réaliste avant chaque release |
+| Projet | Pour | Ce qu’il fait |
+|---|---|---|
+| [**green-claude**](https://github.com/Institut-du-Numerique-Responsable/green-claude) · [site](https://institut-du-numerique-responsable.github.io/green-claude/) | Claude Code | Skill d’écoconception : sobriété numérique, audit RGESN / GR491 / Green Software Foundation, sobriété dans l’usage même de l’IA |
+| [**green-codex**](https://github.com/Institut-du-Numerique-Responsable/green-codex) · [site](https://institut-du-numerique-responsable.github.io/green-codex/) | Codex | Skill d’écoconception, d’accessibilité, de qualité web et d’IA responsable, fondé sur le RGESN, le GR491, le RGAA et les référentiels de l’INR |
+| [**green-vibe**](https://github.com/Institut-du-Numerique-Responsable/green-vibe) | Mistral Vibe | Plugin Agent Plugins 1.0 : **286 règles** sur les quatre champs du NR (Green IT, IT for Green, IT for Social, Social for IT), dont 29 pratiques pour un usage sobre de Vibe lui-même. L’agent ne charge que les règles utiles au contexte. Un audit statique déterministe vérifie 164 règles, un hook post-édition l’exécute même si le modèle l’oublie, et un rapport pédagogique cite les règles appliquées. Python standard, sans dépendance |
+| [**skill-nr**](https://github.com/Institut-du-Numerique-Responsable/skill-nr) · [site](https://institut-du-numerique-responsable.github.io/skill-nr/) | 11 assistants | Règles d’écoconception (RGESN, GR491, Opquast, RGAA) prêtes à l’emploi pour Continue, Claude Code, Cursor, GitHub Copilot, Gemini CLI, OpenCode, Mistral Vibe, Kilo Code, Codex, Kimi CLI et ChatGPT. Une source, onze déclinaisons, 13 langages |
+| [**claude_skill_accessibilite**](https://github.com/Institut-du-Numerique-Responsable/claude_skill_accessibilite) · [site](https://institut-du-numerique-responsable.github.io/claude_skill_accessibilite/) | Claude Code | Génère une déclaration d’accessibilité RGAA conforme au modèle officiel gouv.fr |
 
 ---
 
-### 💻 Développement & Éco-conception
-*Outils pour les développeurs : bonnes pratiques, skills IA, architectures responsables.*
+## 📏 Mesurer l’impact
 
-| Projet | Description |
-|--------|-------------|
-| [skill-nr](https://github.com/Institut-du-Numerique-Responsable/skill-nr) Renommé| **Règles d’écoconception** (RGESN, GR491, Opquast, RGAA) prêtes à l’emploi pour 11 assistants IA de code : Continue, Claude Code, Cursor, GitHub Copilot, Gemini CLI, OpenCode, Mistral Vibe, Kilo Code, Codex, Kimi CLI, ChatGPT. Une source, onze déclinaisons, 13 langages — [site du projet](https://institut-du-numerique-responsable.github.io/skill-nr/) |
-| [green-claude](https://github.com/Institut-du-Numerique-Responsable/green-claude) | **Skill éco-responsable pour Claude Code** : sobriété numérique, audit d’écoconception (RGESN, GR491, Green Software Foundation) et pratiques de sobriété IA |lors de lutilisation de claude
-| [green-codex](https://github.com/Institut-du-Numerique-Responsable/green-codex) | **Skill éco-responsable pour Codex** pour l’écoconception, l’accessibilité, la qualité web et l’IA responsable, fondé sur RGESN, GR491, Les réferentiels de l'INR  et RGAA — [site du projet](https://institut-du-numerique-responsable.github.io/green-codex/) |
-| [green-vibe] | **Skill éco-responsable pour Vibe (Mistral) ** pour l’écoconception, l’accessibilité, la qualité web et l’IA responsable, fondé sur RGESN, GR491, Les réferentiels de l'INR et RGAA — Ce skill intègre les spécificité de Codex et les bonnes pratiques d'usage pour en réduire l'utilisation également [site du projet](https://institut-du-numerique-responsable.github.io/green-codex/) |
-| [BP-AIR](https://github.com/Institut-du-Numerique-Responsable/BP-AIR) | Fiches et bonnes pratiques pour des **Architectures Informatiques Responsables** |
+*Énergie, carbone, eau : chiffrer avant d’optimiser.*
 
----
-
-### 🌐 Sites Web & Interfaces
-*Dépôts liés aux sites et outils de visualisation.*
-
-| Projet | Description |
-|--------|-------------|
-| [dataviz-digital-cleanup](https://github.com/Institut-du-Numerique-Responsable/dataviz-digital-cleanup) | **Interface de collecte des données** des Digital Cleanup Day |
-| [boite_a_outils](https://github.com/Institut-du-Numerique-Responsable/boite_a_outils) | **Site de la boîte à outils** de l’INR |
-| [isit-europe](https://github.com/Institut-du-Numerique-Responsable/isit-europe) | Page d’accueil de présentation de l’organisation à l’échelle européenne |
+| Projet | Ce qu’il fait |
+|---|---|
+| [**perf-sentinel**](https://github.com/Institut-du-Numerique-Responsable/perf-sentinel) · [site](https://perf-sentinel.dev) | Détecte les anti-patterns de performance dans les traces OpenTelemetry (N+1, appels redondants, fanout…) et chiffre chaque I/O évitable en énergie et en CO₂. S’utilise en quality gate CI ou en daemon. Rust |
+| [PerfSentinelHub](https://github.com/Institut-du-Numerique-Responsable/PerfSentinelHub) | Hub d’historique et d’agrégation des findings Perf Sentinel (C# / .NET NativeAOT, SQLite), avec une interface pour lancer une analyse sans terminal |
+| [perf-sentinel-simulation-lab](https://github.com/Institut-du-Numerique-Responsable/perf-sentinel-simulation-lab) | Laboratoire Kubernetes local qui valide Perf Sentinel sur une infrastructure simulée mais réaliste avant chaque release |
+| [**eval_impact_ia**](https://github.com/Institut-du-Numerique-Responsable/eval_impact_ia) | Calculateur d’impact environnemental de l’IA générative : carbone (gCO₂e), énergie (kWh), eau, ADPe. Méthodologie ACV pour LLM, appuyée sur 79 publications et 87 outils open source (CodeCarbon, EcoLogits, Scaphandre…) |
+| [Energy-Languages](https://github.com/Institut-du-Numerique-Responsable/Energy-Languages) · [site](https://institut-du-numerique-responsable.github.io/Energy-Languages/) | Édition INR des benchmarks énergétiques des langages de programmation : analyses historiques reproductibles, outillage RAPL, limites documentées |
+| [CO2_RAPL](https://github.com/Institut-du-Numerique-Responsable/CO2_RAPL) | Script RAPL qui estime la consommation et l’empreinte carbone d’un serveur Linux |
+| [myimpact](https://github.com/Institut-du-Numerique-Responsable/myimpact) · [site](https://myimpact.isit-europe.org/) | Calculatrice pour évaluer ses propres impacts numériques |
 
 ---
 
-### ⚙️ Outils Système
-*Solutions techniques pour optimiser les infrastructures.*
+## 🔍 Auditer et piloter
 
-| Projet | Description |
-|--------|-------------|
-| [bw_camera](https://github.com/Institut-du-Numerique-Responsable/bw_camera) | Caméra virtuelle noir & blanc pour Linux (V4L2) : réduit la bande passante et l’énergie de la visioconférence |
+*Évaluer la conformité, mesurer la maturité, fixer les priorités.*
 
----
-
-### 📜 Gouvernance & Organisation
-*Documents et outils internes pour la gouvernance de l’INR.*
-
-| Projet | Description |
-|--------|-------------|
-| [.github](https://github.com/Institut-du-Numerique-Responsable/.github) | Profil GitHub de l’organisation |
-| [charte_benr](https://github.com/Institut-du-Numerique-Responsable/charte_benr) | **Charte de la ou du bénévole** à l’INR : engagements, rôles et cadre du bénévolat |
-| [clausier_nr_v2](https://github.com/Institut-du-Numerique-Responsable/clausier_nr_v2) | Sources du **clausier numérique responsable v2** |
+| Projet | Ce qu’il fait |
+|---|---|
+| [**nr-analysis-cli**](https://github.com/Institut-du-Numerique-Responsable/nr-analysis-cli) · [site](https://institut-du-numerique-responsable.github.io/nr-analysis-cli/) | CLI d’audit RGESN : évalue la conformité écoconception et accessibilité de pages web |
+| [**GPC-ONR**](https://github.com/Institut-du-Numerique-Responsable/GPC-ONR) · [site](https://institut-du-numerique-responsable.github.io/GPC-ONR/) | Grille de priorisation des cibles des objectifs du numérique responsable : auto-évaluation et priorisation participative pour les organisations |
+| [guide-maturite-parties-prenantes](https://github.com/Institut-du-Numerique-Responsable/guide-maturite-parties-prenantes) · [site](https://institut-du-numerique-responsable.github.io/guide-maturite-parties-prenantes/) | Guide d’évaluation de la maturité NR des fournisseurs et parties prenantes (FR/EN) : 48 questions, 10 familles de critères, grille Excel |
 
 ---
 
-## 📊 Résumé par Catégorie
+## 🏗️ Concevoir et acheter
 
-| Catégorie | Dépôts | Total |
-|-----------|--------|-------|
-| Audit & Conformité | claude_skill_accessibilite, nr-analysis-cli, GPC-ONR | 3 |
-| Mesure d’Impact | myimpact, CO2_RAPL, perf-sentinel, PerfSentinelHub, perf-sentinel-simulation-lab | 5 |
-| Développement & Éco-conception | green-claude, skill-nr, green-codex, BP-AIR | 4 |
-| Sites Web & Interfaces | dataviz-digital-cleanup, boite_a_outils, isit-europe | 3 |
-| Outils Système | bw_camera | 1 |
-| Gouvernance | .github, charte_benr, clausier_nr_v2 | 3 |
-| **Total** | | **19** |
+*Bonnes pratiques d’architecture, achats publics, gestes concrets.*
+
+| Projet | Ce qu’il fait |
+|---|---|
+| [**BP-AIR**](https://github.com/Institut-du-Numerique-Responsable/BP-AIR) | Fiches de bonnes pratiques pour des architectures informatiques responsables |
+| [**clausier_nr_v2**](https://github.com/Institut-du-Numerique-Responsable/clausier_nr_v2) · [site](https://institutnr.org/clausier-numerique-ecoresponsable) | Sources du clausier numérique responsable v2, pour intégrer l’écoconception dans la commande publique |
+| [bw_camera](https://github.com/Institut-du-Numerique-Responsable/bw_camera) · [site](https://institut-du-numerique-responsable.github.io/bw_camera/) | Caméra virtuelle noir et blanc pour Linux (V4L2) : réduit la bande passante et l’énergie de la visioconférence. Compatible Teams, Chrome, Zoom, OBS |
 
 ---
 
-## 📚 Nos référentiels et sites en ligne
+## 📚 Savoirs et données
 
-Certains de ces référentiels sont produits ou maintenus par des outils internes non publics ; les référentiels et sites qui en résultent sont, eux, accessibles à toutes et tous :
+*Partager les connaissances et les données du numérique responsable.*
 
-- **GR491** — référentiel de conception responsable des services numériques : [gr491.isit-europe.org](https://gr491.isit-europe.org)
-- **RIA31** — référentiel pour une IA responsable : [ref-ia.isit-europe.org](https://ref-ia.isit-europe.org)
-- **WeNR 2.0** — [wenr.isit-europe.org](https://wenr.isit-europe.org)
-- **Digital Cleanup Day** — [digital-cleanup-day.fr](https://digital-cleanup-day.fr)
-- **Académie NR** — MOOCs et formations : [academie-nr.org](https://www.academie-nr.org)
-- **Charte Numérique Responsable et Charte IA Responsable** — [charter.isit-europe.org](https://charter.isit-europe.org/?lang=fr_FR)
-- **Wiki-NR** — [fr.wiki.isit-europe.org/nr/Accueil](https://fr.wiki.isit-europe.org/nr/Accueil)
+| Projet | Ce qu’il fait |
+|---|---|
+| [**wiki-nr**](https://github.com/Institut-du-Numerique-Responsable/wiki-nr) · [site](https://fr.wiki.isit-europe.org/nr/Accueil) | Sources publiques du Wiki du numérique responsable en cinq langues (FR, EN, ES, DE, NL), avec outils d’export et de vérification |
+| [boite_a_outils](https://github.com/Institut-du-Numerique-Responsable/boite_a_outils) · [site](https://institutnr.org/boite-a-outils-reen) | Site de la boîte à outils de l’INR |
+| [dataviz-digital-cleanup](https://github.com/Institut-du-Numerique-Responsable/dataviz-digital-cleanup) | Collecte et visualisation des données des Digital Cleanup Day |
+| [isit-europe](https://github.com/Institut-du-Numerique-Responsable/isit-europe) · [site](https://isit-europe.org/) | Page d’accueil de l’Institut à l’échelle européenne (ISIT) |
+
+<details>
+<summary><strong>📜 Gouvernance de l’association</strong></summary>
+
+| Projet | Ce qu’il fait |
+|---|---|
+| [charte_benr](https://github.com/Institut-du-Numerique-Responsable/charte_benr) · [site](https://institut-du-numerique-responsable.github.io/charte_benr/) | Charte de la ou du bénévole à l’INR : engagements, rôles et cadre du bénévolat |
+| [.github](https://github.com/Institut-du-Numerique-Responsable/.github) | Ce profil d’organisation |
+
+</details>
 
 ---
 
-## Qui porte ces projets
+## 🌍 Nos référentiels en ligne
 
-Ces dépôts sont publiés par l’**Institut du Numérique Responsable**, association loi 1901. Le travail de fond — référentiels, méthodes, cadre théorique — précède souvent la création du dépôt qui le rend exploitable.
+Certains référentiels sont produits par des outils internes non publics. Les référentiels et sites qui en résultent sont accessibles à toutes et tous.
 
-- **Vincent Courboulay**, directeur scientifique de l’INR, enseignant-chercheur en informatique à La Rochelle Université, spécialisé en numérique responsable depuis vingt ans. À l’origine des travaux dont plusieurs de ces projets sont la mise en œuvre logicielle.
+| Ressource | Accès |
+|---|---|
+| **GR491** — référentiel de conception responsable des services numériques | [gr491.isit-europe.org](https://gr491.isit-europe.org) |
+| **RIA31** — référentiel pour une IA responsable | [ref-ia.isit-europe.org](https://ref-ia.isit-europe.org) |
+| **WeNR 2.0** — mesure de l’empreinte du numérique des organisations | [wenr.isit-europe.org](https://wenr.isit-europe.org) |
+| **Charte Numérique Responsable** et **Charte IA Responsable** | [charter.isit-europe.org](https://charter.isit-europe.org/?lang=fr_FR) |
+| **Académie NR** — MOOC et formations | [academie-nr.org](https://www.academie-nr.org) |
+| **Wiki-NR** — encyclopédie du numérique responsable | [fr.wiki.isit-europe.org](https://fr.wiki.isit-europe.org/nr/Accueil) |
+| **Digital Cleanup Day** | [digital-cleanup-day.fr](https://digital-cleanup-day.fr) |
+
+---
+
+## 👥 Qui porte ces projets
+
+Ces dépôts sont publiés par l’**Institut du Numérique Responsable**, association loi 1901. Le travail de fond (référentiels, méthodes, cadre théorique) précède souvent la création du dépôt qui le rend exploitable.
+
+- **Vincent Courboulay**, directeur scientifique de l’INR, enseignant-chercheur en informatique à La Rochelle Université, spécialisé en numérique responsable depuis vingt ans. Plusieurs de ces projets mettent en œuvre ses travaux.
 - **Guillaume Gallon** ([@gridboy](https://github.com/gridboy)), créateur de [green-claude](https://github.com/Institut-du-Numerique-Responsable/green-claude) et de [skill-nr](https://github.com/Institut-du-Numerique-Responsable/skill-nr), mainteneur principal des dépôts de l’organisation.
 - **Robin Trassard** ([@robintra](https://github.com/robintra)), Tech Lead Green IT et IT for Green de l’INR, créateur de [Perf Sentinel](https://github.com/Institut-du-Numerique-Responsable/perf-sentinel), qu’il continue de diriger au sein de l’institut.
 
-Chaque dépôt contient un fichier `CITATION.cff` : il liste ses contributeurs réels et permet de citer le projet depuis GitHub, un gestionnaire de références ou un assistant IA. La liste complète des personnes ayant contribué à un projet est visible sur l’onglet *Contributors* du dépôt concerné.
+Chaque dépôt contient un fichier `CITATION.cff`. Il liste les contributeurs réels et permet de citer le projet depuis GitHub, un gestionnaire de références ou un assistant IA. L’onglet *Contributors* de chaque dépôt donne la liste complète.
 
 Merci à toutes celles et ceux qui ont contribué, en particulier [@jpreisner](https://github.com/jpreisner), [@jules-delecour-dav](https://github.com/jules-delecour-dav), [@overgeynst](https://github.com/overgeynst), [@GChapel](https://github.com/GChapel), [@GaelGirodon](https://github.com/GaelGirodon), [@benoittisserand](https://github.com/benoittisserand), [@onyrakotoarivelo](https://github.com/onyrakotoarivelo) et [@Damien-Ar](https://github.com/Damien-Ar).
 
 ---
 
-## Nous rejoindre
+## 🤝 Nous rejoindre
 
-[Télécharger la présentation de l’INR](https://institutnr.org) sur [institutnr.org](https://institutnr.org)
+- **Contribuer** : ouvrez une *issue* ou une *pull request* sur le dépôt de votre choix.
+- **Adhérer ou devenir bénévole** : [institutnr.org](https://institutnr.org) (présentation de l’INR téléchargeable sur le site).
+- **Nous écrire** : [contact@institutnr.org](mailto:contact@institutnr.org)
+
+---
+
+## 🇬🇧 In English
+
+The **Institut du Numérique Responsable** (Sustainable IT Institute) is a French non-profit founded in 2018. It publishes open source tools for **sustainable IT, eco-design, digital sobriety, accessibility and responsible AI**:
+
+- **AI coding assistants**: eco-design skills and plugins for Claude Code ([green-claude](https://github.com/Institut-du-Numerique-Responsable/green-claude)), Codex ([green-codex](https://github.com/Institut-du-Numerique-Responsable/green-codex)), Mistral Vibe ([green-vibe](https://github.com/Institut-du-Numerique-Responsable/green-vibe)) and 11 assistants ([skill-nr](https://github.com/Institut-du-Numerique-Responsable/skill-nr)).
+- **Measurement**: carbon-aware performance anti-pattern detection ([perf-sentinel](https://github.com/Institut-du-Numerique-Responsable/perf-sentinel)), generative AI footprint ([eval_impact_ia](https://github.com/Institut-du-Numerique-Responsable/eval_impact_ia)), programming language energy benchmarks ([Energy-Languages](https://github.com/Institut-du-Numerique-Responsable/Energy-Languages)).
+- **Audit**: RGESN web audit CLI ([nr-analysis-cli](https://github.com/Institut-du-Numerique-Responsable/nr-analysis-cli)) and maturity self-assessment ([GPC-ONR](https://github.com/Institut-du-Numerique-Responsable/GPC-ONR)).
+- **Reference frameworks**: [GR491](https://gr491.isit-europe.org) (responsible digital service design) and [RIA31](https://ref-ia.isit-europe.org) (responsible AI).
+
+<sub>Dernière vérification de la liste des dépôts : 17/10/2026.</sub>
