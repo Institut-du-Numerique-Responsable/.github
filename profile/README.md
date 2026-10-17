@@ -18,7 +18,7 @@
 
 ---
 
-L’**Institut du Numérique Responsable** est une association loi 1901 créée en 2018. Elle publie ici **24 dépôts open source** qui rendent le numérique responsable concret pour les équipes : règles d’écoconception pour les assistants IA de code, audit RGESN de pages web, mesure de l’énergie et du carbone des logiciels, grilles de maturité, clausier pour les achats publics.
+L’**Institut du Numérique Responsable** est une association loi 1901 créée en 2018. Elle publie ici **24 dépôts open source** pour vos équipes : règles d’écoconception pour les assistants IA de code, audit RGESN de pages web, mesure de l’énergie et du carbone des logiciels, grilles de maturité, clausier pour les achats publics.
 
 Nos trois enjeux :
 
@@ -64,7 +64,7 @@ Filtrer les dépôts par sujet :
 
 ## 🤖 IA de code responsable
 
-*Des skills et plugins qui font appliquer le numérique responsable par l’assistant IA, pendant l’écriture du code.*
+*Votre assistant IA applique les règles du numérique responsable pendant qu’il écrit le code.*
 
 | Projet | Pour | Ce qu’il fait |
 |---|---|---|
@@ -78,7 +78,7 @@ Filtrer les dépôts par sujet :
 
 ## 📏 Mesurer l’impact
 
-*Énergie, carbone, eau : chiffrer avant d’optimiser.*
+*Chiffrez l’énergie, le carbone et l’eau de vos services.*
 
 | Projet | Ce qu’il fait |
 |---|---|
@@ -94,7 +94,7 @@ Filtrer les dépôts par sujet :
 
 ## 🔍 Auditer et piloter
 
-*Évaluer la conformité, mesurer la maturité, fixer les priorités.*
+*Évaluez la conformité et la maturité de votre organisation, puis fixez vos priorités.*
 
 | Projet | Ce qu’il fait |
 |---|---|
@@ -106,7 +106,7 @@ Filtrer les dépôts par sujet :
 
 ## 🏗️ Concevoir et acheter
 
-*Bonnes pratiques d’architecture, achats publics, gestes concrets.*
+*Bonnes pratiques d’architecture et clauses pour les achats publics.*
 
 | Projet | Ce qu’il fait |
 |---|---|
@@ -118,7 +118,7 @@ Filtrer les dépôts par sujet :
 
 ## 📚 Savoirs et données
 
-*Partager les connaissances et les données du numérique responsable.*
+*Wiki, boîte à outils et données ouvertes du numérique responsable.*
 
 | Projet | Ce qu’il fait |
 |---|---|
@@ -141,29 +141,29 @@ Filtrer les dépôts par sujet :
 
 ## 🌍 Nos référentiels en ligne
 
-Certains référentiels sont produits par des outils internes non publics. Les référentiels et sites qui en résultent sont accessibles à toutes et tous.
+L’INR produit certains référentiels avec des outils internes non publics. Les référentiels et sites qui en résultent restent ouverts à toutes et tous.
 
 | Ressource | Accès |
 |---|---|
-| **GR491** — référentiel de conception responsable des services numériques | [gr491.isit-europe.org](https://gr491.isit-europe.org) |
-| **RIA31** — référentiel pour une IA responsable | [ref-ia.isit-europe.org](https://ref-ia.isit-europe.org) |
-| **WeNR 2.0** — mesure de l’empreinte du numérique des organisations | [wenr.isit-europe.org](https://wenr.isit-europe.org) |
+| **GR491** : référentiel de conception responsable des services numériques | [gr491.isit-europe.org](https://gr491.isit-europe.org) |
+| **RIA31** : référentiel pour une IA responsable | [ref-ia.isit-europe.org](https://ref-ia.isit-europe.org) |
+| **WeNR 2.0** : mesure de l’empreinte du numérique des organisations | [wenr.isit-europe.org](https://wenr.isit-europe.org) |
 | **Charte Numérique Responsable** et **Charte IA Responsable** | [charter.isit-europe.org](https://charter.isit-europe.org/?lang=fr_FR) |
-| **Académie NR** — MOOC et formations | [academie-nr.org](https://www.academie-nr.org) |
-| **Wiki-NR** — encyclopédie du numérique responsable | [fr.wiki.isit-europe.org](https://fr.wiki.isit-europe.org/nr/Accueil) |
+| **Académie NR** : MOOC et formations | [academie-nr.org](https://www.academie-nr.org) |
+| **Wiki-NR** : encyclopédie du numérique responsable | [fr.wiki.isit-europe.org](https://fr.wiki.isit-europe.org/nr/Accueil) |
 | **Digital Cleanup Day** | [digital-cleanup-day.fr](https://digital-cleanup-day.fr) |
 
 ---
 
 ## 👥 Qui porte ces projets
 
-Ces dépôts sont publiés par l’**Institut du Numérique Responsable**, association loi 1901. Le travail de fond (référentiels, méthodes, cadre théorique) précède souvent la création du dépôt qui le rend exploitable.
+L’**Institut du Numérique Responsable** publie ces dépôts. Chacun outille des référentiels, des méthodes ou un cadre théorique que l’INR a construits en amont.
 
 - **Vincent Courboulay**, directeur scientifique de l’INR, enseignant-chercheur en informatique à La Rochelle Université, spécialisé en numérique responsable depuis vingt ans. Plusieurs de ces projets mettent en œuvre ses travaux.
 - **Guillaume Gallon** ([@gridboy](https://github.com/gridboy)), créateur de [green-claude](https://github.com/Institut-du-Numerique-Responsable/green-claude) et de [skill-nr](https://github.com/Institut-du-Numerique-Responsable/skill-nr), mainteneur principal des dépôts de l’organisation.
 - **Robin Trassard** ([@robintra](https://github.com/robintra)), Tech Lead Green IT et IT for Green de l’INR, créateur de [Perf Sentinel](https://github.com/Institut-du-Numerique-Responsable/perf-sentinel), qu’il continue de diriger au sein de l’institut.
 
-Chaque dépôt contient un fichier `CITATION.cff`. Il liste les contributeurs réels et permet de citer le projet depuis GitHub, un gestionnaire de références ou un assistant IA. L’onglet *Contributors* de chaque dépôt donne la liste complète.
+Chaque dépôt contient un fichier `CITATION.cff` qui liste ses contributeurs. Vous citez le projet depuis GitHub, Zotero ou un assistant IA. L’onglet *Contributors* du dépôt donne la liste complète.
 
 Merci à toutes celles et ceux qui ont contribué, en particulier [@jpreisner](https://github.com/jpreisner), [@jules-delecour-dav](https://github.com/jules-delecour-dav), [@overgeynst](https://github.com/overgeynst), [@GChapel](https://github.com/GChapel), [@GaelGirodon](https://github.com/GaelGirodon), [@benoittisserand](https://github.com/benoittisserand), [@onyrakotoarivelo](https://github.com/onyrakotoarivelo) et [@Damien-Ar](https://github.com/Damien-Ar).
 
@@ -186,4 +186,4 @@ The **Institut du Numérique Responsable** (Sustainable IT Institute) is a Frenc
 - **Audit**: RGESN web audit CLI ([nr-analysis-cli](https://github.com/Institut-du-Numerique-Responsable/nr-analysis-cli)) and maturity self-assessment ([GPC-ONR](https://github.com/Institut-du-Numerique-Responsable/GPC-ONR)).
 - **Reference frameworks**: [GR491](https://gr491.isit-europe.org) (responsible digital service design) and [RIA31](https://ref-ia.isit-europe.org) (responsible AI).
 
-<sub>Dernière vérification de la liste des dépôts : 17/10/2026.</sub>
+<sub>Liste des dépôts vérifiée le 17/10/2026.</sub>
