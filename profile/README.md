@@ -13,12 +13,17 @@
   <a href="#️-concevoir-et-acheter">Concevoir</a> ·
   <a href="#-savoirs-et-données">Savoirs</a> ·
   <a href="#-nos-référentiels-en-ligne">Référentiels</a> ·
+  <a href="#-questions-fréquentes">FAQ</a> ·
   <a href="#-in-english">English</a>
+</p>
+
+<p align="center">
+  👉 <a href="https://github.com/Institut-du-Numerique-Responsable"><strong>Suivez l’organisation</strong></a> (bouton <em>Follow</em> en haut de page) pour recevoir nos nouveaux outils, et ⭐ les dépôts qui vous servent.
 </p>
 
 ---
 
-L’**Institut du Numérique Responsable** est une association loi 1901 créée en 2018. Elle publie ici **24 dépôts open source** pour vos équipes : règles d’écoconception pour les assistants IA de code, audit RGESN de pages web, mesure de l’énergie et du carbone des logiciels, grilles de maturité, clausier pour les achats publics.
+L’**Institut du Numérique Responsable (INR)** est une association française loi 1901 créée en 2018. Avec ISIT Belgique et ISIT Suisse, il forme le réseau européen des Institutes for Sustainable IT (**ISIT**). Elle publie ici **24 dépôts open source** pour vos équipes : règles d’écoconception pour les assistants IA de code, audit RGESN de pages web, mesure de l’énergie et du carbone des logiciels, grilles de maturité, clausier pour les achats publics.
 
 Nos trois enjeux :
 
@@ -171,15 +176,50 @@ Merci à toutes celles et ceux qui ont contribué, en particulier [@jpreisner](h
 
 ## 🤝 Nous rejoindre
 
+- **Suivre nos travaux** : cliquez sur *Follow* sur [la page de l’organisation](https://github.com/Institut-du-Numerique-Responsable) et sur *Watch → Releases* dans les dépôts qui vous intéressent.
 - **Contribuer** : ouvrez une *issue* ou une *pull request* sur le dépôt de votre choix.
 - **Adhérer ou devenir bénévole** : [institutnr.org](https://institutnr.org) (présentation de l’INR téléchargeable sur le site).
 - **Nous écrire** : [contact@institutnr.org](mailto:contact@institutnr.org)
 
 ---
 
+## ❓ Questions fréquentes
+
+<details>
+<summary><strong>Qu’est-ce que le numérique responsable ?</strong></summary>
+
+Le numérique responsable réduit l’empreinte environnementale et sociale du numérique (Green IT), met le numérique au service de la transition écologique (IT for Green) et rend les services accessibles et inclusifs (IT for Social).
+</details>
+
+<details>
+<summary><strong>Qu’est-ce que le RGESN et le GR491 ?</strong></summary>
+
+Le **RGESN** (Référentiel général d’écoconception de services numériques) est le référentiel public français d’écoconception. Le **GR491**, publié par l’INR, est le guide de référence de conception responsable des services numériques : il couvre l’environnement, l’accessibilité et l’éthique. [nr-analysis-cli](https://github.com/Institut-du-Numerique-Responsable/nr-analysis-cli), [green-claude](https://github.com/Institut-du-Numerique-Responsable/green-claude), [green-codex](https://github.com/Institut-du-Numerique-Responsable/green-codex), [green-vibe](https://github.com/Institut-du-Numerique-Responsable/green-vibe) et [skill-nr](https://github.com/Institut-du-Numerique-Responsable/skill-nr) appliquent ces deux référentiels.
+</details>
+
+<details>
+<summary><strong>Comment rendre mon assistant IA de code plus sobre ?</strong></summary>
+
+Installez le skill ou le plugin qui correspond à votre outil : [green-claude](https://github.com/Institut-du-Numerique-Responsable/green-claude) pour Claude Code, [green-codex](https://github.com/Institut-du-Numerique-Responsable/green-codex) pour Codex, [green-vibe](https://github.com/Institut-du-Numerique-Responsable/green-vibe) pour Mistral Vibe, [skill-nr](https://github.com/Institut-du-Numerique-Responsable/skill-nr) pour Cursor, GitHub Copilot, Gemini CLI, Continue et sept autres assistants.
+</details>
+
+<details>
+<summary><strong>Comment mesurer l’empreinte carbone d’un logiciel ou d’une IA ?</strong></summary>
+
+[perf-sentinel](https://github.com/Institut-du-Numerique-Responsable/perf-sentinel) chiffre en énergie et en CO₂ les I/O évitables d’une application à partir de ses traces OpenTelemetry. [eval_impact_ia](https://github.com/Institut-du-Numerique-Responsable/eval_impact_ia) estime le carbone, l’énergie et l’eau d’une IA générative. [CO2_RAPL](https://github.com/Institut-du-Numerique-Responsable/CO2_RAPL) mesure la consommation d’un serveur Linux.
+</details>
+
+<details>
+<summary><strong>Ces outils sont-ils libres ?</strong></summary>
+
+Oui. Les 24 dépôts publics sont open source : vous pouvez les utiliser, les modifier et les redistribuer selon la licence indiquée dans chaque dépôt.
+</details>
+
+---
+
 ## 🇬🇧 In English
 
-The **Institut du Numérique Responsable** (Sustainable IT Institute) is a French non-profit founded in 2018. It publishes open source tools for **sustainable IT, eco-design, digital sobriety, accessibility and responsible AI**:
+The **Institut du Numérique Responsable** (INR, Institute for Sustainable IT) is a French non-profit founded in 2018 and a member of the European ISIT network. It publishes open source tools for **sustainable IT, eco-design, digital sobriety, accessibility and responsible AI**:
 
 - **AI coding assistants**: eco-design skills and plugins for Claude Code ([green-claude](https://github.com/Institut-du-Numerique-Responsable/green-claude)), Codex ([green-codex](https://github.com/Institut-du-Numerique-Responsable/green-codex)), Mistral Vibe ([green-vibe](https://github.com/Institut-du-Numerique-Responsable/green-vibe)) and 11 assistants ([skill-nr](https://github.com/Institut-du-Numerique-Responsable/skill-nr)).
 - **Measurement**: carbon-aware performance anti-pattern detection ([perf-sentinel](https://github.com/Institut-du-Numerique-Responsable/perf-sentinel)), generative AI footprint ([eval_impact_ia](https://github.com/Institut-du-Numerique-Responsable/eval_impact_ia)), programming language energy benchmarks ([Energy-Languages](https://github.com/Institut-du-Numerique-Responsable/Energy-Languages)).
