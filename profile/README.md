@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Outils open source pour l’écoconception, la sobriété numérique, l’accessibilité et l’IA responsable</strong><br>
-  RGESN · GR491 · RGAA · Green IT · IT for Green · mesure carbone · assistants IA de code
+  RGESN · GR491 · ClAUSIER · WENR · IA NR · CI/DI · ONR
 </p>
 
 <p align="center">
