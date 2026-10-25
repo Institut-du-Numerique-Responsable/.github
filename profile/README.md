@@ -12,6 +12,7 @@
   <a href="#-auditer-et-piloter">Auditer</a> ·
   <a href="#️-concevoir-et-acheter">Concevoir</a> ·
   <a href="#-savoirs-et-données">Savoirs</a> ·
+  <a href="#-projets-partenaires">Partenaires</a> ·
   <a href="#-nos-référentiels-en-ligne">Référentiels</a> ·
   <a href="#-questions-fréquentes">FAQ</a> ·
   <a href="#-in-english">English</a>
@@ -144,6 +145,17 @@ Filtrer les dépôts par sujet :
 
 ---
 
+## 🔗 Projets partenaires
+
+*Outils open source d’autres organisations, complémentaires des nôtres. Ils restent maintenus par leurs auteurs.*
+
+| Projet | Porté par | Ce qu’il fait |
+|---|---|---|
+| [**oPPTimiz**](https://github.com/groupe-edf/oPPTimiz) | EDF | Complément PowerPoint qui réduit le poids des présentations : compression des images et suppression des masques de diapositives inutilisés. GPL-3.0 |
+| [**ImpactIA**](https://github.com/SNCFdevelopers/ImpactIA) | SNCF, avec Resilio et Wavestone | Calculateur de l’empreinte environnementale des LLM (GES, eau, électricité) pour 30 modèles d’IA générative, avec sa méthodologie détaillée. Complète [eval_impact_ia](https://github.com/Institut-du-Numerique-Responsable/eval_impact_ia) |
+
+---
+
 ## 🌍 Nos référentiels en ligne
 
 L’INR produit certains référentiels avec des outils internes non publics. Les référentiels et sites qui en résultent restent ouverts à toutes et tous.
@@ -224,6 +236,7 @@ The **Institut du Numérique Responsable** (INR, Institute for Sustainable IT) i
 - **AI coding assistants**: eco-design skills and plugins for Claude Code ([green-claude](https://github.com/Institut-du-Numerique-Responsable/green-claude)), Codex ([green-codex](https://github.com/Institut-du-Numerique-Responsable/green-codex)), Mistral Vibe ([green-vibe](https://github.com/Institut-du-Numerique-Responsable/green-vibe)) and 11 assistants ([skill-nr](https://github.com/Institut-du-Numerique-Responsable/skill-nr)).
 - **Measurement**: carbon-aware performance anti-pattern detection ([perf-sentinel](https://github.com/Institut-du-Numerique-Responsable/perf-sentinel)), generative AI footprint ([eval_impact_ia](https://github.com/Institut-du-Numerique-Responsable/eval_impact_ia)), programming language energy benchmarks ([Energy-Languages](https://github.com/Institut-du-Numerique-Responsable/Energy-Languages)).
 - **Audit**: RGESN web audit CLI ([nr-analysis-cli](https://github.com/Institut-du-Numerique-Responsable/nr-analysis-cli)) and maturity self-assessment ([GPC-ONR](https://github.com/Institut-du-Numerique-Responsable/GPC-ONR)).
+- **Partner projects**: [oPPTimiz](https://github.com/groupe-edf/oPPTimiz) by EDF (PowerPoint file size reduction) and [ImpactIA](https://github.com/SNCFdevelopers/ImpactIA) by SNCF (LLM environmental footprint calculator).
 - **Reference frameworks**: [GR491](https://gr491.isit-europe.org) (responsible digital service design) and [RIA31](https://ref-ia.isit-europe.org) (responsible AI).
 
 <sub>Liste des dépôts vérifiée le 17/10/2026.</sub>
