@@ -147,12 +147,12 @@ Filtrer les dépôts par sujet :
 
 ## 🔗 Projets partenaires
 
-*Outils open source d’autres organisations, complémentaires des nôtres. Ils restent maintenus par leurs auteurs.*
+*EDF et la SNCF publient et maintiennent ces outils open source. Ils complètent les nôtres.*
 
 | Projet | Porté par | Ce qu’il fait |
 |---|---|---|
-| [**oPPTimiz**](https://github.com/groupe-edf/oPPTimiz) | EDF | Complément PowerPoint qui réduit le poids des présentations : compression des images et suppression des masques de diapositives inutilisés. GPL-3.0 |
-| [**ImpactIA**](https://github.com/SNCFdevelopers/ImpactIA) | SNCF, avec Resilio et Wavestone | Calculateur de l’empreinte environnementale des LLM (GES, eau, électricité) pour 30 modèles d’IA générative, avec sa méthodologie détaillée. Complète [eval_impact_ia](https://github.com/Institut-du-Numerique-Responsable/eval_impact_ia) |
+| [**oPPTimiz**](https://github.com/groupe-edf/oPPTimiz) | EDF | Complément PowerPoint qui allège vos présentations : il compresse les images et supprime les masques de diapositives inutilisés. GPL-3.0 |
+| [**ImpactIA**](https://github.com/SNCFdevelopers/ImpactIA) | SNCF, avec Resilio et Wavestone | Calcule les émissions de GES, l’eau et l’électricité de 30 modèles d’IA générative, et publie sa méthodologie. À croiser avec [eval_impact_ia](https://github.com/Institut-du-Numerique-Responsable/eval_impact_ia) |
 
 ---
 
