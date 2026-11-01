@@ -154,7 +154,6 @@ Filtrer les dépôts par sujet :
 | Projet | Porté par | Ce qu’il fait |
 |---|---|---|
 | [**oPPTimiz**](https://github.com/groupe-edf/oPPTimiz) | EDF | Complément PowerPoint qui allège vos présentations : il compresse les images et supprime les masques de diapositives inutilisés. GPL-3.0 |
-| [**ImpactIA**](https://github.com/SNCFdevelopers/ImpactIA) | SNCF, avec Resilio et Wavestone | Calcule les émissions de GES, l’eau et l’électricité de 30 modèles d’IA générative, et publie sa méthodologie. À croiser avec [eval_impact_ia](https://github.com/Institut-du-Numerique-Responsable/eval_impact_ia) |
 
 ---
 
@@ -238,7 +237,7 @@ The **Institut du Numérique Responsable** (INR, Institute for Sustainable IT) i
 - **AI coding assistants**: eco-design skills and plugins for Claude Code ([green-claude](https://github.com/Institut-du-Numerique-Responsable/green-claude)), Codex ([green-codex](https://github.com/Institut-du-Numerique-Responsable/green-codex)), Mistral Vibe ([green-vibe](https://github.com/Institut-du-Numerique-Responsable/green-vibe)) and 11 assistants ([skill-nr](https://github.com/Institut-du-Numerique-Responsable/skill-nr)), plus a Claude Code plugin that writes performance integration tests checked by Perf Sentinel ([perf-sentinel-claude](https://github.com/Institut-du-Numerique-Responsable/perf-sentinel-claude)).
 - **Measurement**: carbon-aware performance anti-pattern detection ([perf-sentinel](https://github.com/Institut-du-Numerique-Responsable/perf-sentinel)), generative AI footprint ([eval_impact_ia](https://github.com/Institut-du-Numerique-Responsable/eval_impact_ia)), programming language energy benchmarks ([Energy-Languages](https://github.com/Institut-du-Numerique-Responsable/Energy-Languages)).
 - **Audit**: RGESN web audit CLI ([nr-analysis-cli](https://github.com/Institut-du-Numerique-Responsable/nr-analysis-cli)) and maturity self-assessment ([GPC-ONR](https://github.com/Institut-du-Numerique-Responsable/GPC-ONR)).
-- **Partner projects**: [oPPTimiz](https://github.com/groupe-edf/oPPTimiz) by EDF (PowerPoint file size reduction) and [ImpactIA](https://github.com/SNCFdevelopers/ImpactIA) by SNCF (LLM environmental footprint calculator).
+- **Partner projects**: [oPPTimiz](https://github.com/groupe-edf/oPPTimiz) by EDF (PowerPoint file size reduction).
 - **Reference frameworks**: [GR491](https://gr491.isit-europe.org) (responsible digital service design) and [RIA31](https://ref-ia.isit-europe.org) (responsible AI).
 
 <sub>Liste des dépôts vérifiée le 28/10/2026.</sub>
